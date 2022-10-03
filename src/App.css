@@ -1,0 +1,24 @@
+.navbar{
+    background-color:rgb(31, 160, 160);
+}
+
+.container-fluid{
+    background-color:rgb(31, 160, 160);
+}
+
+.mt-5 .col-md-7 input{
+    cursor: pointer;
+}
+
+.container-child img{
+    background-color:black;
+    align-items:flex-start;
+    justify-content: center;
+    margin-left: 38%;
+    align-content: center;
+} 
+
+.container-child img{
+    width: auto;
+    height: auto;
+}
